@@ -1,0 +1,7 @@
+/* src/fonts.css */
+@font-face {
+    font-family: 'NTL_Font'; /* ชื่อ font ที่คุณต้องการใช้ */
+    src: url('./NgernTidLor-Regular.ttf') format('truetype'); /* path ไปยังไฟล์ .ttf */
+    font-weight: normal;
+    font-style: normal;
+  }
